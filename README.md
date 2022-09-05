@@ -9,7 +9,9 @@ I have passion for learning Swift and Flutter.
 ```
 🧑🏻‍🎨 · Graphic Design A+
 🇬🇧 · English A-
-👁 · Analytical Skills B+
+👁 · Analytical Skills B-
+🤔 · Problem Solving B+
+
 ```
 
 ## 📷 · Designs Portofolio
