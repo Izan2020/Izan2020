@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Glantrix
-- 👀 I’m interested in Flutter
+- 👋 Hi, I’m Hamas
+- 👀 I’m interested in
 - 🌱 I’m currently learning Kotlin
 
 
