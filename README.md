@@ -7,7 +7,7 @@ I'm always trying to grow and learn something
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
-## 🧠 · My Skills
+## 🧠 · Passive Skills
 ```
 🧑🏻‍🎨 · Graphic Design A+
 🇬🇧 · English A-
