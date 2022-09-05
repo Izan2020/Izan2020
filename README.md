@@ -5,7 +5,11 @@ Hi i'm Hamas  been interested on Front End Development, currently learning Kotli
 I have passion for learning Swift and Flutter.
 
 ## Skills
-```Graphic Design A+```
+```
+🧑🏻‍🎨 · Graphic Design A+
+🇬🇧 · English A-
+👁 · Analytical Skills B+
+```
 
 
 <!---
