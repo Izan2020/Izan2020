@@ -7,16 +7,24 @@ I'm always trying to grow and learn something
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
-## 🧠 · Skills
+## 🧠 · My Skills
 ```
 🧑🏻‍🎨 · Graphic Design A+
 🇬🇧 · English A-
 👁 · Analytical Skills B-
 🤔 · Problem Solving B+
-
+```
+## 🛠 · Some Languages I've Learned
+```
+· HTML
+· CSS 
+· Kotlin 
+· Java
+· MySQL
 ```
 
-## 📷 · Designs Portofolio
+## 📷 · Designs & Portofolio
+Check out my Design Portofolio, I'll be making full Website Portofolio Soon!
 
 <a href="https://www.figma.com/file/eRfDScW9KQzFgp95WCdd10/iMushaf-UI%2FUX?node-id=0%3A1">
 <img src="https://cdn.discordapp.com/attachments/929387503935434802/1016346616648699934/Untitled-3.png" alt="Mooshaf">
