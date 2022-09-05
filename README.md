@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamas
-- 👀 I’m interested in
+- 👀 I’m interested in Swift
 - 🌱 I’m currently learning Kotlin
 
 
