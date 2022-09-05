@@ -1,3 +1,6 @@
+
+![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016299893117173780/Untitled-1.png)
+
 - 👋 Hi, I’m Hamas
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning Kotlin
