@@ -1,5 +1,5 @@
 
-![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016299893117173780/Untitled-1.png)
+![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
 
 ## About Me!
