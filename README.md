@@ -2,8 +2,10 @@
 ![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
 ## Hi i'm Hamas
-I've been interested in Front End Development, currently learning Kotlin,
-I have passion for learning Swift and Flutter.
+I've been interested in Front End Development, currently learning Kotlin,I have passion for learning Swift and Flutter. 
+I'm always trying to grow and learn something
+
+```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
 ## 🧠 · Skills
 ```
