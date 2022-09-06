@@ -7,14 +7,15 @@ I'm always trying to grow and learn something new.
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
-## Passive Skills
+
+## 🧠 - Passive Skills
 ```
 🧑🏻‍🎨 · Graphic Design A+
 🇬🇧 · English A-
 👁 · Analytical Skills B-
 🤔 · Problem Solving B+
 ```
-## Some Languages I've Learned
+## 🛠 - Some Languages I Know
 ```
 🌐 · HTML
 🎨 · CSS 
@@ -23,7 +24,7 @@ I'm always trying to grow and learn something new.
 📊 · MySQL
 ```
 
-## 📷 · Designs & Portofolio
+## 📷 - Designs & Portofolio
 Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be making full Website Portofolio Soon!
 
 <a href="https://www.figma.com/file/eRfDScW9KQzFgp95WCdd10/iMushaf-UI%2FUX?node-id=0%3A1">
@@ -32,7 +33,7 @@ Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be
 
 
 
-## 🚀 · My Github Stats
+## 🚀 - My Github Stats
 **This Github Stats does'nt really indicate my Skills**, This Stats just showing that language i've used Most on my GitHub Repositories
 
 ![Glantrox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Izan2020&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
