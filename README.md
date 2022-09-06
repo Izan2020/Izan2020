@@ -1,9 +1,10 @@
-## Currently working on <a href="https://github.com/Izan2020/Mooshaf">Mooshaf</a>
+
 ![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
 ## Hi I'm Hamas
 I've been interested in Front End Development on Android, currently learning Kotlin, I have passion for learning Swift and Flutter. 
 I'm always trying to grow and learn something new.
+Currently working on <a href="https://github.com/Izan2020/Mooshaf">Mooshaf</a>
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
