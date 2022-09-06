@@ -1,7 +1,7 @@
 
 ![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
-## Hi i'm Hamas
+## Hi I'm Hamas
 I've been interested in Front End Development, currently learning Kotlin,I have passion for learning Swift and Flutter. 
 I'm always trying to grow and learn something new.
 
