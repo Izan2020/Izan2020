@@ -24,12 +24,13 @@ I'm always trying to grow and learn something new.
 ```
 
 ## 📷 · Designs & Portofolio
-Check out some of my Design(s) & Portofolio(?) , I'll be making full Website Portofolio Soon!
+Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be making full Website Portofolio Soon!
 
 <a href="https://www.figma.com/file/eRfDScW9KQzFgp95WCdd10/iMushaf-UI%2FUX?node-id=0%3A1">
 <img src="https://cdn.discordapp.com/attachments/929387503935434802/1016346616648699934/Untitled-3.png" alt="Mooshaf">
 </a><br>
-· Click this Banner to visit my Figma Project!
+
+
 
 ## 🚀 · My Github Stats
 **This Github Stats does'nt really indicate my Skills**, This Stats just showing that language i've used Most on my GitHub Repositories
