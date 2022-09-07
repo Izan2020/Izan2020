@@ -40,4 +40,11 @@ Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be
 ![Glantrox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Izan2020&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izan2020&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+## 💻 - My Device / OS I Use
+I was a **Windows** User, now i'm using **MacOS**.
+I've been using The **MacBook Pro M1** for 2 Months
+```
+🍎 · MacOS
+🪟 · Windows
+``
 
