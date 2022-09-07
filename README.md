@@ -46,5 +46,5 @@ I've been using The **MacBook Pro M1** for 2 Months
 ```
 🍎 · MacOS
 🪟 · Windows
-``
+```
 
