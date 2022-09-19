@@ -22,7 +22,7 @@ Currently working on <a href="https://github.com/Izan2020/Mooshaf">Mooshaf</a>
 🎨 · CSS 
 🤖 · Kotlin 
 ☕️ · Java
-📊 · MYSQL
+📊 · MySQL
 ```
 
 ## 💻 - My Device / OS I Use
