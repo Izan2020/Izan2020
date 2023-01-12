@@ -2,7 +2,7 @@
 ![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
 ## Hi I'm Hamas
-I've been interested in Front End Development on Android, currently learning Kotlin, I have passion for learning Swift and Flutter. 
+I've been interested in Front End Development on Android, currently learning Flutter, I have passion for learning Swift. 
 I'm always trying to grow and learn something new.
 Currently Looking for Mobile Developer Internship
 
