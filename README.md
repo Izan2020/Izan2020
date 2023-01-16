@@ -4,7 +4,7 @@
 ## Hi I'm Hamas
 I've been interested in Front End Development on Android, currently learning Flutter, I have passion for learning Swift. 
 I'm always trying to grow and learn something new.
-Currently Looking for Mobile Developer Internship
+Currently doing an Internship in Telkom IoT.
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
@@ -16,11 +16,12 @@ Currently Looking for Mobile Developer Internship
 👁 · Analytical Skills B-
 🤔 · Problem Solving B+
 ```
-## 🛠 - Some Languages I Know
+## 🛠 - Some Languages I Speak
 ```
 🌐 · HTML
 🎨 · CSS 
 🤖 · Kotlin 
+🎯 · Dart 
 ☕️ · Java
 📊 · MySQL
 ```
