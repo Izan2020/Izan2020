@@ -23,7 +23,9 @@ Currently doing an Internship in Telkom IoT.
 🤖 · Kotlin 
 🎯 · Dart 
 ☕️ · Java
-📊 · MySQL
+📊 · MySQL / PostgreSQL
+🗿 · PHP
+🧱 · XML
 ```
 
 ## 💻 - My Device / OS I Use
