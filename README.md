@@ -28,7 +28,7 @@ I am a Junior Software Developer with a strong passion for creating mobile apps 
 
 ## 💻 - My Device / OS I Use
 I was a **Windows** User, now i'm using **MacOS**.
-I've been using The **MacBook Pro M1** for a year Months
+I've been using The **MacBook Pro M1** for a year 
 ```
 🍎 · MacOS
 🪟 · Windows
