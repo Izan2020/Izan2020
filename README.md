@@ -1,5 +1,5 @@
 
-![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
+![glantrox](https://cdn.discordapp.com/attachments/1110006269571514438/1110006967910535280/bannergithub.png)
 
 ## Hi I'm Hamas
 I'm a Junior Software Developer who is passionate about making a Mobile Apps, Websites. I feel most in my place while continuously
