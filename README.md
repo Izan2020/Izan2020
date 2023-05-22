@@ -2,9 +2,9 @@
 ![glantrox](https://cdn.discordapp.com/attachments/929387503935434802/1016324785099251813/banner_github.png)
 
 ## Hi I'm Hamas
-I've been interested in Front End Development on Android, currently learning Flutter, I have passion for learning Swift. 
-I'm always trying to grow and learn something new.
-Currently doing an Internship in Telkom IoT.
+I'm a Junior Software Developer who is passionate about making a Mobile Apps, Websites. I feel most in my place while continuously
+operating as a Front-End Developer within a team, I enjoy working with some developement Technologies such as Flutter in Mobile Developement
+and Laravel in Website Developement, I'm currently learning Jetpack Compose for Android Development, I've been coding for 1 Year, and I really want to learn Swift. I've recently been doing an Internship in Telkom IoT for 4 months.
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
 
@@ -30,7 +30,7 @@ Currently doing an Internship in Telkom IoT.
 
 ## 💻 - My Device / OS I Use
 I was a **Windows** User, now i'm using **MacOS**.
-I've been using The **MacBook Pro M1** for 2 Months
+I've been using The **MacBook Pro M1** for a year Months
 ```
 🍎 · MacOS
 🪟 · Windows
