@@ -14,17 +14,11 @@ I am a Junior Software Developer with a strong passion for creating mobile apps 
 👁 · Analytical Skills B-
 🤔 · Problem Solving B+
 ```
-## 🛠 - Some Languages I Speak
-```
-🌐 · HTML
-🎨 · CSS 
-🤖 · Kotlin 
-🎯 · Dart 
-☕️ · Java
-📊 · MySQL / PostgreSQL
-🗿 · PHP
-🧱 · XML
-```
+## 🛠 - Technologies
+[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,flutter,laravel)](https://skillicons.dev)
+
+## 🛠 - Languages
+[![My Skills](https://skillicons.dev/icons?i=kotlin,html,php,dart)](https://skillicons.dev)
 
 ## 💻 - My Device / OS I Use
 I was a **Windows** User, now i'm using **MacOS**.
