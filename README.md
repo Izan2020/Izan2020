@@ -15,10 +15,13 @@ I am a Junior Software Developer with a strong passion for creating mobile apps 
 🤔 · Problem Solving B+
 ```
 ## 🛠 - Technologies
-[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,flutter,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,flutter,laravel,mysql,postman,firebase,vscode)](https://skillicons.dev)
 
 ## 🛠 - Languages
-[![My Skills](https://skillicons.dev/icons?i=kotlin,html,php,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,html,css,php,dart,java,js,postgre)](https://skillicons.dev)
+
+## 🛠 - Others
+[![My Skills](https://skillicons.dev/icons?i=photoshop,premiere,ae,figma)](https://skillicons.dev)
 
 ## 💻 - My Device / OS I Use
 I was a **Windows** User, now i'm using **MacOS**.
