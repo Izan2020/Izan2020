@@ -34,7 +34,7 @@ I've been using The **MacBook Pro M1** for a year
 ## 📷 - Designs & Portofolio
 Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be making full Website Portofolio Soon!
 
-<a href="https://izan2020.github.io/personal_portofolio_web/">
+<a href="https://glantrox.com">
 Click Here to Open my Website
 </a><br>
 
