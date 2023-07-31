@@ -41,7 +41,7 @@ Click Here to Open my Website
 
 
 ## 🚀 - My Github Stats
-**This Github Stats does'nt really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
+**This Github Stats doesn't really indicate my Skills**, This stats just showing the language(s) i've used Most on my GitHub Repositories
 
 ![Glantrox's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Izan2020&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Izan2020&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
