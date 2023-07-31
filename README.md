@@ -32,10 +32,10 @@ I've been using The **MacBook Pro M1** for a year
 ```
 
 ## 📷 - Designs & Portofolio
-Check out some of my Design(s) & Portofolio(?) by clicking these Banner! I'll be making full Website Portofolio Soon!
+Check out some of my Design(s) & Portofolio(?)
 
 <a href="https://glantrox.com">
-Click Here to Open my Website
+Check out my Behance
 </a><br>
 
 
