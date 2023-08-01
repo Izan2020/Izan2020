@@ -1,7 +1,7 @@
 
 ![glantrox](https://cdn.discordapp.com/attachments/1110006269571514438/1110006967910535280/bannergithub.png)
 
-## Hi I'm Hamas
+## Hi i'm Hamas
 I am a Junior Software Developer with a strong passion for creating mobile apps and websites. My true sense of belonging comes from working as a Front-End Developer within a collaborative team. I thoroughly enjoy utilizing various development technologies, such as Flutter for mobile development and Laravel for website development. Currently, I am actively learning Jetpack Compose for Android development. With one year of coding experience under my belt, I am eager to expand my knowledge and learn Swift. Recently, I completed a four-month internship at Telkom IoT.
 
 ```"Design is not just what it looks like and feels like. Design is how it works." -Steve Jobs```
