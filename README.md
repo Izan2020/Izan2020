@@ -15,7 +15,7 @@ I am a Junior Software Developer with a strong passion for creating mobile apps 
 🤔 · Problem Solving B+
 ```
 ## 🛠 - Technologies
-[![My Skills](https://skillicons.dev/icons?i=laravel,postman,firebase,flutter,vscode,bootstrap,postgre)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,postman,firebase,flutter,vscode,bootstrap,androidstudio)](https://skillicons.dev)
 
 ## 🛠 - Languages
 [![My Skills](https://skillicons.dev/icons?i=html,js,dart,css,kotlin,java,php)](https://skillicons.dev)
