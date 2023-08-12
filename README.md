@@ -34,7 +34,7 @@ I've been using The **MacBook Pro M1** for a year
 ## 📷 - Designs & Portofolio
 Check out some of my Design(s) & Portofolio(?)
 
-<a href="https://glantrox.com">
+<a href="https://www.behance.net/hamasazizan">
 Check out my Behance
 </a><br>
 
